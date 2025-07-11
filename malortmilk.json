@@ -1,0 +1,58 @@
+{
+  "name": "Non-Alcoholic Malort Milk Stout",
+  "style": "Experimental NA stout-inspired mocktail",
+  "batch_size": "1 quart (1 L)",
+  "ingredients": [
+    {
+      "amount": "2 cups",
+      "measurement": "480 mL",
+      "name": "cold brew concentrate"
+    },
+    {
+      "amount": "1 cup",
+      "measurement": "240 mL",
+      "name": "whole milk or oat milk"
+    },
+    {
+      "amount": "1/2 cup",
+      "measurement": "120 mL",
+      "name": "malt syrup"
+    },
+    {
+      "amount": "1 tbsp",
+      "name": "cocoa powder (unsweetened)"
+    },
+    {
+      "amount": "1 tbsp",
+      "name": "blackstrap molasses"
+    },
+    {
+      "amount": "1 tsp",
+      "name": "wormwood extract or gentian tincture"
+    },
+    {
+      "amount": "1 tsp",
+      "name": "vanilla extract"
+    },
+    {
+      "amount": "pinch",
+      "name": "salt"
+    },
+    {
+      "amount": "1 tbsp (optional)",
+      "name": "lactose (milk sugar)"
+    }
+  ],
+  "instructions": [
+    "In a large pitcher, combine cold brew concentrate, milk, malt syrup, cocoa powder, molasses, and vanilla extract. Whisk or use an immersion blender to fully dissolve.",
+    "Carefully add wormwood extract or gentian tincture, a few drops at a time, tasting as you go to achieve desired bitterness.",
+    "Add a pinch of salt to enhance flavors. Adjust sweetness with more malt syrup or lactose if needed.",
+    "Chill for at least 1 hour to let flavors meld.",
+    "Serve in a stout glass over a large ice cube if desired. Garnish with cocoa powder or grated dark chocolate for effect."
+  ],
+  "tasting_notes": {
+    "aroma": "Roasty cold brew, chocolate malt, sharp herbal bitterness.",
+    "flavor": "Sweet malt and milk up front, creamy mouthfeel, rising wormwood bitterness.",
+    "mouthfeel": "Thick, velvety, dessert-like but with a bitter punch."
+  }
+}
